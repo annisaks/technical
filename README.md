@@ -1,6 +1,10 @@
 # technical
 Technical task from AI Mastery Program
 
+
+Predict weight using linear regression based on height and gender
+Deployment using Flask
+
 Dataset : https://www.kaggle.com/datasets/mustafaali96/weight-height
 
 
